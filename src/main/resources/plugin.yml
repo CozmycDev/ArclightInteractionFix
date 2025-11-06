@@ -1,4 +1,4 @@
 name: ArclightInteractionFix
-version: '1.0.0'
+version: '1.0.1'
 main: net.doodcraft.arclightInteractionFix.ArclightInteractionFix
 api-version: '1.20'
