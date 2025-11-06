@@ -1,3 +1,7 @@
+[![GitHub Pre-Release](https://img.shields.io/github/release-pre/CozmycDev/ArclightInteractionFix.svg)](https://github.com/CozmycDev/ArclightInteractionFix/releases)
+[![Github All Releases](https://img.shields.io/github/downloads/CozmycDev/ArclightInteractionFix/total.svg)](https://github.com/CozmycDev/ArclightInteractionFix/releases)
+![Size](https://img.shields.io/github/repo-size/CozmycDev/ArclightInteractionFix.svg)
+
 # Arclight Interaction Fix
 
 A bodge fix for the **PlayerInteractEvent** bug in Arclight, where interactions are not detected by plugins when looking **West**.
